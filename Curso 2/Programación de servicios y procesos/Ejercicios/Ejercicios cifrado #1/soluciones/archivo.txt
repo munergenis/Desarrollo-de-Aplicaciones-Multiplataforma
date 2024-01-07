@@ -1,3 +1,0 @@
-archivo.txt
-ejer1.js
-ejer2.js
